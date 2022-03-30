@@ -1,0 +1,7 @@
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\LoginPage.g.cs
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\zhann\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
